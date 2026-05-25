@@ -25,12 +25,12 @@
 
 <ul align="left">
   <li>
-    Portfolio: [En proceso]
+    Portfolio: [In progress]
   </li>
   <li>
     LinkedIn:
     <a href="https://www.linkedin.com/in/maicol-rojas/" target="_blank">
-      linkedin.com/in/tu-usuario
+      linkedin.com/in/maicol-rojas
     </a>
   </li>
 </ul>
